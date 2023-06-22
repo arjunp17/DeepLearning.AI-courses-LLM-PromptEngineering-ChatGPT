@@ -5,14 +5,20 @@ A summary of the LLM, Prompt Engineering, and ChatGPT-related courses offered by
   > The course is instructed by Isa Fulford and Andrew Ng, and offered by DeepLearning.AI
  
 
-##Course Contents
+## Course Contents
+
 1. Introduction - Base LLM Vs Instruction-tuned LLM
 2. Best practices to Prompt Engineering - tips and tricks
 3. Practical Applications
-     > Iterative prompting
-     > Summarising
-     > Inferring
-     > Transforming
-     > Expanding
-     > Chatbot
+     >* Iterative prompting
+     
+     > * Summarising
+     
+     > * Inferring
+     
+     > * Transforming
+     
+     > * Expanding
+     
+     > * Chatbot
    
