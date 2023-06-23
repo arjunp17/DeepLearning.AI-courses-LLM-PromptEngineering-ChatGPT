@@ -27,8 +27,8 @@ The full instructions from the course are documented in a [Google Colab notebook
 3. Prompting with Chain of thought reasoning and Chaining principles
 4. Evaluation of LLMs - Rubric method and using Ideal response
   
-The pdfs of the compiled notebooks from the course are provided with some additional fun tests - [pdfs of notebooks]()
+The pdfs of the compiled notebooks from the course are provided with some additional fun tests - [pdfs of notebooks](https://github.com/arjunp17/DeepLearning.AI-courses-LLM-PromptEngineering-ChatGPT/tree/main/Building%20Systems%20with%20the%20ChatGPT%20API)
 
-The full instructions from the course are documented in a [Google Colab notebook]()
+The full instructions from the course are documented in a [Google Colab notebook](https://github.com/arjunp17/DeepLearning.AI-courses-LLM-PromptEngineering-ChatGPT/blob/main/Building_Systems_with_the_ChatGPT_API.ipynb)
 
 Note: OpenAI subscription is required to run the instructions in a personal notebook. However, the ChatGPT user interface can be used to run and verify the instructions.
