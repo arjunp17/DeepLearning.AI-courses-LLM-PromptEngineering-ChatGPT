@@ -24,7 +24,7 @@ The full instructions from the course are documented in a [Google Colab notebook
 
 1. Introduction - Working principle of LLM
 2. Moderation at user input and system output
-3. Prompting with Chain of thought reasoning and Chaining principles
+3. Multi-tasking using prompts - Chain of thought reasoning and Chaining principles
 4. Evaluation of LLMs - Rubric method and using Ideal response - [Evaluation prompt from the OpenAI evals project](https://github.com/openai/evals/blob/main/evals/registry/modelgraded/fact.yaml)
   
 The pdfs of the compiled notebooks from the course are provided with some additional fun tests - [pdfs of notebooks](https://github.com/arjunp17/DeepLearning.AI-courses-LLM-PromptEngineering-ChatGPT/tree/main/Building%20Systems%20with%20the%20ChatGPT%20API)
