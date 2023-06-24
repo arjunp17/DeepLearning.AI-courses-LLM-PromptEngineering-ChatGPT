@@ -41,7 +41,7 @@ The full instructions from the course are documented in a [Google Colab notebook
 1. LangChain - Models, Prompts, and Output parsers
 2. How to implement applications using LangChain Chains, Memory, and Agents
   
-The pdfs of the compiled notebooks from the course are provided - [pdfs of notebooks](https://github.com/arjunp17/DeepLearning.AI-courses-LLM-PromptEngineering-ChatGPT/tree/main/ChatGPT-prompt-engineering-for-developers)
+The pdfs of the compiled notebooks from the course are provided - [pdfs of notebooks](https://github.com/arjunp17/DeepLearning.AI-courses-LLM-PromptEngineering-ChatGPT/tree/main/LangChain%20for%20LLM%20Application%20Development)
 
 The full instructions from the course are documented in a [Google Colab notebook](https://github.com/arjunp17/DeepLearning.AI-courses-LLM-PromptEngineering-ChatGPT/blob/main/LangChain_for_LLM_Application_Development.ipynb)
 
