@@ -17,7 +17,7 @@ The pdfs of the compiled notebooks from the course are provided with some additi
 The full instructions from the course are documented in a [Google Colab notebook](https://github.com/arjunp17/DeepLearning.AI-courses-LLM-PromptEngineering-ChatGPT/blob/main/ChatGPT_Prompt_Engineering_for_Developers.ipynb)
 
 ## 2. [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction).
-  > The course is instructed by Isa Fulford and Andrew Ng, and offered by DeepLearning.AI
+  - The course is instructed by Isa Fulford and Andrew Ng, and offered by DeepLearning.AI
 
 
 ### Key Learning points
@@ -33,7 +33,7 @@ The full instructions from the course are documented in a [Google Colab notebook
 
 
 ## 3. [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/).
-  > The course is instructed by Harrison Chase and Andrew Ng, and offered by DeepLearning.AI
+  - The course is instructed by Harrison Chase and Andrew Ng, and offered by DeepLearning.AI
  
 
 ### Key Learning points
