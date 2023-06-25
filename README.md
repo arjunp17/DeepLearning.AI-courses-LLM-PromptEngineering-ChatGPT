@@ -2,7 +2,7 @@
 A summary of the LLM, Prompt Engineering, and ChatGPT-related courses offered by DeepLearning.AI
 
 ## 1. [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/).
-  > The course is instructed by Isa Fulford and Andrew Ng, and offered by DeepLearning.AI
+  - The course is instructed by Isa Fulford and Andrew Ng, and offered by DeepLearning.AI
  
 
 ### Key Learning points
