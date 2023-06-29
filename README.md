@@ -48,7 +48,7 @@ The full instructions from the course are documented in a [Google Colab notebook
 Note: OpenAI subscription is required to run the instructions in a personal notebook. However, the ChatGPT user interface can be used to run and verify the instructions.
 
 ## Additional reading list
-	- [What are foundation models?](https://research.ibm.com/blog/what-are-foundation-models)
-	- [What is prompt-tuning?](https://research.ibm.com/blog/what-is-ai-prompt-tuning)
-	- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
-	- [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/04/11/llm-engineering.html)
+- [What are foundation models?](https://research.ibm.com/blog/what-are-foundation-models)
+- [What is prompt-tuning?](https://research.ibm.com/blog/what-is-ai-prompt-tuning)
+- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)
+- [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/04/11/llm-engineering.html)
