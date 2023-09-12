@@ -45,10 +45,6 @@ The pdfs of the compiled notebooks from the course are provided - [pdfs of noteb
 
 The full instructions from the course are documented in a [Google Colab notebook](https://github.com/arjunp17/DeepLearning.AI-courses-LLM-PromptEngineering-ChatGPT/blob/main/LangChain_for_LLM_Application_Development.ipynb)
 
-
-## 4. [LangChain Chat with Your Data](https://learn.deeplearning.ai/langchain-chat-with-your-data/lesson/1/introduction).
-  - The course is instructed by Harrison Chase and Andrew Ng, and offered by DeepLearning.AI
- 
  
  
 Note: OpenAI subscription is required to run the instructions in a personal notebook. However, the ChatGPT user interface can be used to run and verify the instructions.
