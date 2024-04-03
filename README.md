@@ -22,7 +22,7 @@ The full instructions from the course are documented in a [Google Colab notebook
 
 ### Key Learning points
 
-1. Working principle of LLM
+1. Working principle of LLMs
 2. Moderation at user input and system output
 3. Multi-tasking using prompts - Chain of thought reasoning and Chaining principles
 4. Evaluation of LLMs - Rubric method and using Ideal response - [Evaluation prompt from the OpenAI evals project](https://github.com/openai/evals/blob/main/evals/registry/modelgraded/fact.yaml)
